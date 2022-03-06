@@ -1,19 +1,18 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/938175699326484490/948263435412598864/unknown_2.png" width="400px" height="150px" alt="aventium softworks"></p>
+</p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 40 Methods</h1>
+<h1 align="center">T17DDoS - DDoS Attack Script With 40 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
-<a href="#"><img alt="MHDDoS forks" src="https://img.shields.io/github/forks/MHProDev/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="MHDDoS last commit (main)" src="https://img.shields.io/github/last-commit/MHProDev/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MHDDoS Repo stars" src="https://img.shields.io/github/stars/MHProDev/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="MHDDoS License" src="https://img.shields.io/github/license/MHProDev/MHDDoS?color=orange&style=for-the-badge"></a>
+<a href="#"><img alt="T17DDoS forks" src="https://img.shields.io/github/forks/MHProDev/MHDDoS?style=for-the-badge"></a>
+<a href="#"><img alt="T17DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MHProDev/MHDDoS/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="T17DDoS Repo stars" src="https://img.shields.io/github/stars/MHProDev/MHDDoS?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="T17DDoS License" src="https://img.shields.io/github/license/MHProDev/MHDDoS?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/MHProDev/MHDDoS/issues"><img alt="MHDDoS issues" src="https://img.shields.io/github/issues/MHProDev/MHDDoS?color=purple&style=for-the-badge"></a>
 
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
 
 ## Features And Methods
 
