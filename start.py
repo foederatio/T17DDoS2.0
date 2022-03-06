@@ -37,7 +37,7 @@ from yarl import URL
 
 basicConfig(format='[%(asctime)s - %(levelname)s] %(message)s',
             datefmt="%H:%M:%S")
-logger = getLogger("MHDDoS")
+logger = getLogger("T17DDoS")
 logger.setLevel("INFO")
 ctx: SSLContext = create_default_context(cafile=where())
 ctx.check_hostname = False
@@ -1092,7 +1092,7 @@ class ToolsConsole:
     @staticmethod
     def usage():
         print((
-            '* Coded By MH_ProDev For Better Stresser\n'
+            '* Coded By ta1ma7 For Better Stresser\n'
             'Note: If the Proxy list is empty, the attack will run without proxies\n'
             '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
             '      Proxy Type 0 = All in config.json\n'
