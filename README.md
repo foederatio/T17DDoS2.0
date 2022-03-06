@@ -4,11 +4,6 @@
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
-<a href="#"><img alt="T17DDoS forks" src="https://img.shields.io/github/forks/MHProDev/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="T17DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MHProDev/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="T17DDoS Repo stars" src="https://img.shields.io/github/stars/MHProDev/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="T17DDoS License" src="https://img.shields.io/github/license/MHProDev/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MHProDev/MHDDoS/issues"><img alt="MHDDoS issues" src="https://img.shields.io/github/issues/MHProDev/MHDDoS?color=purple&style=for-the-badge"></a>
 
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
@@ -71,14 +66,7 @@ python3 start.py tools
   * 👑 HELP | Show Usage Script
 
 #### Issues ? 
- * Telegram : https://t.me/DD0SChat
- * Discord : MH_ProDev#2681
- * [GitHub][github]
-#### Like the project? Leave a star on the repository!
-
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
+ * Telegram : @ta1ma7
 
 ### Getting Started
 
@@ -95,40 +83,6 @@ You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/re
 * [dnspython](https://github.com/rthalley/dnspython)
 * [yarl](https://github.com/aio-libs/yarl)
 ---
-Optional
-* [bombardier with proxy](github.com/mariotrucco/bombardier@78-add-proxy-support)
-
-**Bombardier with proxy installation**
-
-```shell script
-mkdir bombardier_tmp
-cd bombardier_tmp
-go mod init bombardier_tmp
-go mod edit -replace github.com/codesenberg/bombardier=github.com/mariotrucco/bombardier@78-add-proxy-support
-go get github.com/codesenberg/bombardier
-cd ..
-rm -r bombardier_tmp
-```
-
-**Videos**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
----
-
-**Clone and Install Script**
-
-```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
-pip3 install -r requirements.txt
-```
-
 
 ## Launch Script
 
@@ -164,10 +118,5 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
 
----
-
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 
